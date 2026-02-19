@@ -187,7 +187,7 @@ Accuracy_Report.txt
 
 ## 👤 Author
 
-**Salman**
+**Salman Maricar A**
 
 Student project exploring real-world LLM + RAG applications for customer support intelligence.
 
